@@ -1,7 +1,14 @@
 # 📝 Exercícios Curso em Vídeo 🤓🖖
-## 🐍 Python Mundo 1, 2, 3 e 4 (Python POO)
+## Python Mundos 1, 2, 3 e 4
 
 Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](cursoemvideo.com).
+
+## 🛠️ Tecnologias Utilizadas
+
+![Python](https://img.shields.io/badge/Python-3.x-3776AB?logo=python)
+![Virtualenv](https://img.shields.io/badge/Env-Virtualenv-4B8BBE?logo=python)
+![Rich](https://img.shields.io/badge/Rich-Library-3776AB?logo=python)
+![PyGame](https://img.shields.io/badge/PyGame-Library-4B8BBE?logo=python)
 
 ---
 
