@@ -1,4 +1,4 @@
-# 📝 Exercícios Curso em Vídeo 🤓🖖
+# 📝 Exercícios Curso em Vídeo 🖖🤓
 ## Python Mundos 1, 2, 3 e 4
 
 Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](cursoemvideo.com).
