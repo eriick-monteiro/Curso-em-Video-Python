@@ -14,6 +14,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 
 <details>
     <summary style="font-size:large;"><strong>🐍 Python - Mundo 1</strong></summary>
+    <br>
     <ul>
         <li>[X] 001 - Hello, World!
         <li>[X] 002 - Respondendo o Usuário
@@ -55,6 +56,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 <br>
 <details>
     <summary style="font-size:large;"><strong>🐍 Python - Mundo 2</strong></summary>
+    <br>
     <ul>
         <li>[X] 036 - Aprovando Empréstimo
         <li>[X] 037 - Conversor de Bases Numéricas
@@ -98,6 +100,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 
 <details>
     <summary style="font-size:large;"><strong>🐍 Python - Mundo 3</strong></summary>
+    <br>
     <ul>
         <li> [ ] #072 - Número por Extenso
         <li> [ ] #073 - Tuplas com Time de Futebol
@@ -151,6 +154,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 
 <details>
     <summary style="font-size:large;"><strong>🐍 Python POO - Mundo 4</strong></summary>
+    <br>
     <ul>
         <li>[X] #000 - Hello, World!
         <li>[X] #001 - Classe Gafanhoto
