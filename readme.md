@@ -1,5 +1,5 @@
-# Exercícios Curso em Vídeo
-## Python Mundo 1, 2, 3 e 4 (Python POO)
+# 📝 Exercícios Curso em Vídeo 🤓🖖
+## 🐍 Python Mundo 1, 2, 3 e 4 (Python POO)
 
 Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](cursoemvideo.com).
 
@@ -133,6 +133,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 - [X] #001 - Classe Gafanhoto
 - [X] #002 - Melhorando a Classe Gafanhoto
 - [X] #003 - Classe ContaBancaria
+- [X] #Extra - Biblioteca Rich
 - [X] #004 - Desafios:
     - [X] desafio #16 - Funcionario
     - [X] desafio #17 - Produto
