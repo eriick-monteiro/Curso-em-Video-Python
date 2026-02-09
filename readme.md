@@ -12,9 +12,8 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 
 ---
 
-### 🐍 Python - Mundo 1
 <details>
-    <summary>Conteúdo</summary>
+    <summary style="font-size:large;"><strong>🐍 Python - Mundo 1</strong></summary>
     <ul>
         <li>[X] 001 - Hello, World!
         <li>[X] 002 - Respondendo o Usuário
@@ -53,10 +52,9 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
         <li>[X] 035 - Analisando Triângulo v1.0
     </ul>
 </details>
-
-### 🐍 Python - Mundo 2
+<br>
 <details>
-    <summary>Conteúdo</summary>
+    <summary style="font-size:large;"><strong>🐍 Python - Mundo 2</strong></summary>
     <ul>
         <li>[X] 036 - Aprovando Empréstimo
         <li>[X] 037 - Conversor de Bases Numéricas
@@ -96,10 +94,10 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
         <li>[ ] #071 - Simulador de Caixa Eletrônico
     </ul>
 </details>
+<br>
 
-### 🐍 Python - Mundo 3
 <details>
-    <summary>Conteúdo</summary>
+    <summary style="font-size:large;"><strong>🐍 Python - Mundo 3</strong></summary>
     <ul>
         <li> [ ] #072 - Número por Extenso
         <li> [ ] #073 - Tuplas com Time de Futebol
@@ -149,10 +147,10 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
         <li> [X] #115c - Finalisando o Projeto
     </ul>
 </details>
+<br>
 
-### 🐍 Python POO - Mundo 4
 <details>
-    <summary>Conteúdo</summary>
+    <summary style="font-size:large;"><strong>🐍 Python POO - Mundo 4</strong></summary>
     <ul>
         <li>[X] #000 - Hello, World!
         <li>[X] #001 - Classe Gafanhoto
@@ -171,3 +169,4 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
             </ul>
     </ul>
 </details>
+<br>
