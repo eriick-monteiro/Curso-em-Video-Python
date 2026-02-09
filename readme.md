@@ -13,7 +13,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 ---
 
 <details>
-    <summary style="font-size:large;"><strong>🐍 Python - Mundo 1</strong></summary>
+    <summary style="font-size:x-large;"><strong>🐍 Python - Mundo 1</strong></summary>
     <br>
     <ul>
         <li>[X] 001 - Hello, World!
@@ -55,7 +55,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 </details>
 <br>
 <details>
-    <summary style="font-size:large;"><strong>🐍 Python - Mundo 2</strong></summary>
+    <summary style="font-size:x-large;"><strong>🐍 Python - Mundo 2</strong></summary>
     <br>
     <ul>
         <li>[X] 036 - Aprovando Empréstimo
@@ -99,7 +99,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 <br>
 
 <details>
-    <summary style="font-size:large;"><strong>🐍 Python - Mundo 3</strong></summary>
+    <summary style="font-size:x-large;"><strong>🐍 Python - Mundo 3</strong></summary>
     <br>
     <ul>
         <li> [ ] #072 - Número por Extenso
@@ -153,7 +153,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 <br>
 
 <details>
-    <summary style="font-size:large;"><strong>🐍 Python POO - Mundo 4</strong></summary>
+    <summary style="font-size:x-large;"><strong>🐍 Python POO - Mundo 4</strong></summary>
     <br>
     <ul>
         <li>[X] #000 - Hello, World!
