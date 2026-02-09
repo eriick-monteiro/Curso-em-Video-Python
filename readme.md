@@ -124,9 +124,9 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 - [ ] #112 - Entrada de Dados Monetários
 - [ ] #113 - Funções Aprofundadas em Python
 - [ ] #114 - Site Está Acessível?
-- [ ] #115a - Criando um Menu em Python
-- [ ] #115b - Arquivos com Python
-- [ ] #115c - Finalisando o Projeto
+- [X] #115a - Criando um Menu em Python
+- [X] #115b - Arquivos com Python
+- [X] #115c - Finalisando o Projeto
 
 ### 🐍 Python POO - Mundo 4
 - [X] #000 - Hello, World!
