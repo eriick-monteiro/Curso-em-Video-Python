@@ -11,11 +11,11 @@ class Produto:
         self.preco = preco
 
     def etiqueta(self):
-        linha1 = f"{self.nome}"
-        linha2 = "-"*30
-        linha3 = f"R${self.preco:,.2f}"
-        texto = f"{linha1.center(30)}\n{linha2}\n{linha3:.^30}"
-        produto = Panel(texto, title="Mensagem", width=35)
+        conteudo = f"{self.nome.center(30, ' ')}"
+        conteudo += f"{'-' * 30}"
+        precof = f"R${self.preco:,.2f}"
+        conteudo += f"{precof.center(30, '.')}"
+        produto = Panel(conteudo, title="Produto", width=34)
         print(produto)
 
 
