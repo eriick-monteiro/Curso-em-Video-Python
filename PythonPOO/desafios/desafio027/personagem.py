@@ -3,10 +3,10 @@ from random import randint
 from rich import print
 
 class Personagem(ABC):
-    def __init__(self, nome, vida, golpes):
+    def __init__(self, nome, vida):
         self.nome = nome
         self.vida = vida
-        self.golpes = golpes
+        self.golpes = []
 
     
     def atacar(self, alvo, forca):
@@ -33,8 +33,9 @@ class Personagem(ABC):
 
 
 class Guerreiro(Personagem):
-    def __init__(self, nome, vida, golpes = ["Soco", "Pulo Giratório"]):
-        super().__init__(nome, vida, golpes)
+    def __init__(self, nome, vida):
+        super().__init__(nome, vida)
+        self.golpes = ["Soco", "Pulo Giratório"]
 
 
     def curar(self):
@@ -45,8 +46,9 @@ class Guerreiro(Personagem):
 
 
 class Mago(Personagem):
-    def __init__(self, nome, vida, golpes = ["Bola de Fogo", "Raios"]):
-        super().__init__(nome, vida, golpes)
+    def __init__(self, nome, vida):
+        super().__init__(nome, vida)
+        self.golpes = ["Bola de Fogo", "Raios"]
 
 
     def curar(self):
