@@ -9,6 +9,7 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
 ![Virtualenv](https://img.shields.io/badge/Env-Virtualenv-4B8BBE?logo=python)
 ![Rich](https://img.shields.io/badge/Rich-Library-3776AB?logo=python)
 ![PyGame](https://img.shields.io/badge/PyGame-Library-4B8BBE?logo=python)
+![ABC](https://img.shields.io/badge/abc-Library-4B8BBE?logo=python)
 
 ---
 
@@ -156,12 +157,28 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
     <summary style="font-size:large;"><strong>🐍 Python POO - Mundo 4</strong></summary>
     <br>
     <ul>
-        <li>[X] #000 - Hello, World!
-        <li>[X] #001 - Classe Gafanhoto
-        <li>[X] #002 - Melhorando a Classe Gafanhoto
-        <li>[X] #003 - Classe ContaBancaria
-        <li>[X] #Extra - Biblioteca Rich
-        <li>[X] #004 - Desafios:
+        <li>Exercicios
+            <ul>
+                <li> [X] ex000 - Hello, World!
+                <li> [X] ex001 - Classe Gafanhoto
+                <li> [X] ex002 - Melhorando a Classe Gafanhoto
+                <li> [X] ex003 - Classe ContaBancaria
+                <li> [X] ex004 - Classe Pessoa, Aluno e Funcionario
+                <li> [X] ex005 - Separando classes.py e main.py
+                <li> [X] ex006 - Separando cada classe em um arquivo separado
+                <li> [X] ex007 - Aluno, Professor e Funcionario como Subclasses da Classe Abstrata Pessoa
+            </ul>
+        <li>Rich
+            <ul>
+                <li>[X] rich001 - print
+                <li>[X] rich002 - Panel
+                <li>[X] rich003 - Table (Tabela de preços)
+                <li>[X] rich004 - Inspect (Conta Bancária)
+                <li>[X] rich005 - Traceback
+                <li>[X] rich006 - Progress Bar
+                <li>[X] rich007 - Layout e Panel
+            </ul>
+        <li>Desafios
             <ul>
                 <li>[X] desafio #16 - Funcionario
                 <li>[X] desafio #17 - Produto
@@ -170,6 +187,11 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
                 <li>[X] desafio #20 - Gamer
                 <li>[X] desafio #21 - Caneta
                 <li>[X] desafio #22 - ControleRemoto
+                <li>[X] desafio #23 - Poligono
+                <li>[X] desafio #24 - Cafeteira
+                <li>[X] desafio #25 - Transporte (Calcular Frete)
+                <li>[X] desafio #26 - Funcionario (Calcular Salario)
+                <li>[X] desafio #27 - Personagem (Batalha de RPG)
             </ul>
     </ul>
 </details>
