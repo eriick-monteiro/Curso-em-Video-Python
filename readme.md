@@ -167,6 +167,9 @@ Aqui estão todos os exercícios do curso de Python 3 do [Curso em Vídeo](curso
                 <li> [X] ex005 - Separando classes.py e main.py
                 <li> [X] ex006 - Separando cada classe em um arquivo separado
                 <li> [X] ex007 - Aluno, Professor e Funcionario como Subclasses da Classe Abstrata Pessoa
+                <li> [X] ex008 - Classe ContaBancaria com métodos publicos, protegidos e privados
+                <li> [X] ex009 - Classe Avaliacao com métodos acessores get_nota e set_nota
+                <li> [X] ex010 - Classe Avaliacao com métodos acessores @property e @nota.setter
             </ul>
         <li>Rich
             <ul>
